@@ -1,0 +1,5 @@
+{
+  "name": "Black Eagle System",
+  "description": "A comprehensive management system for projects, clients, employees, attendance, and leave requests with role-based access control.",
+  "requestFramePermissions": []
+}
